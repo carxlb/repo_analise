@@ -1,3 +1,4 @@
+#
 x = 20
 y = 90
 
@@ -8,7 +9,7 @@ function void h(){  //Alice
 
 }
 
-void g(){ //Função do BOB
+void g(){ //FunÃ§Ã£o do BOB
 
 
 }
